@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "bremen",
+  "locale": "en",
+  "layout": "stacked",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.en.mobile.svg",
+  "sha256": "1140cc710fee6e8856666e854b3e97e6c6159baf48917553fa895b8908ad09aa",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}
